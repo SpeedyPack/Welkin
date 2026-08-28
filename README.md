@@ -1,0 +1,1 @@
+Welkin towel shop starter site. Open index.html to preview. Replace placeholders with real towel photos later.
